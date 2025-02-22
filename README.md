@@ -22,7 +22,7 @@ The `response-handler` for Kong Gateway handle the responses coming from backend
    If you have LuaRocks installed, navigate to the plugin directory and run:
 
    ```bash
-   luarocks make kong-plugin-response-handler-0.1.0.rockspec
+   luarocks make kong-plugin-response-handler-0.1.0-1.rockspec
 
 
 2. **Enable the Plugin:**
